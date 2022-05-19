@@ -40,14 +40,9 @@ body {
 
 .card > img {
   width: 100%;
-  margin-bottom: 1em;
   border-radius: 1em;
+  margin-bottom: 1em;
 }
-
-/* --White: hsl(0, 0%, 100%);
-  --Light-gray: hsl(212, 45%, 89%);
-  --Grayish-blue: hsl(220, 15%, 55%);
-  --Dark-blue: hsl(218, 44%, 22%); */
 
 .card > h1 {
   color: var(--header-color);
@@ -59,6 +54,7 @@ body {
   color: var();
   font-size: 1em;
   padding: 0em 1.5em;
+  margin-bottom: 1em;
 }
 
 .attribution {
