@@ -35,6 +35,7 @@ body {
   max-width: 320px;
   background-color: var(--white);
   border-radius: 16px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.05);
   text-align: center;
 }
 
@@ -51,10 +52,10 @@ body {
 }
 
 .card > p {
+  margin-bottom: 1.5em;
+  padding: 0em 1.5em;
   color: var(--grayish-blue);
   font-size: 1em;
-  padding: 0em 1.5em;
-  margin-bottom: 1em;
 }
 
 .attribution {
